@@ -1,0 +1,9 @@
+{
+  "name": "@jungcollin/symphony-typescript",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-transform-types src/cli.ts",
+    "local": "node --experimental-transform-types src/cli.ts --port 4020 ./WORKFLOW.local.md"
+  }
+}

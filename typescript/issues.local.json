@@ -1,0 +1,60 @@
+{
+  "issues": [
+    {
+      "id": "local-101",
+      "identifier": "LOCAL-101",
+      "title": "Backlog item for the local board",
+      "description": "Keep one visible item in the Todo lane so the board always has backlog context.",
+      "priority": 3,
+      "position": 1000,
+      "state": "Backlog",
+      "labels": [
+        "board",
+        "local"
+      ],
+      "updated_at": "2026-03-05T23:01:46.656Z"
+    },
+    {
+      "id": "local-102",
+      "identifier": "LOCAL-102",
+      "title": "Active item for local execution",
+      "description": "Use this issue to test Codex execution inside an isolated workspace.",
+      "priority": 1,
+      "position": 2000,
+      "state": "In Progress",
+      "labels": [
+        "execution",
+        "local"
+      ],
+      "updated_at": "2026-03-05T22:58:01.110Z"
+    },
+    {
+      "id": "local-104",
+      "identifier": "LOCAL-104",
+      "title": "Secondary todo item for drag-and-drop checks",
+      "description": "Use this card to verify reordering inside the Todo lane and lane-to-lane moves.",
+      "priority": 2,
+      "position": 1000,
+      "state": "In Progress",
+      "labels": [
+        "board",
+        "ux"
+      ],
+      "updated_at": "2026-03-05T23:10:11.121Z"
+    },
+    {
+      "id": "local-103",
+      "identifier": "LOCAL-103",
+      "title": "Completed example item",
+      "description": "Shows what a done card looks like in the board view.",
+      "priority": 2,
+      "position": 1000,
+      "state": "Done",
+      "labels": [
+        "done",
+        "local"
+      ],
+      "updated_at": "2026-03-05T18:00:00Z"
+    }
+  ]
+}

@@ -25,6 +25,9 @@ Tell your favorite coding agent to build Symphony in a programming language of y
 > Implement Symphony according to the following spec:
 > https://github.com/openai/symphony/blob/main/SPEC.md
 
+This fork also includes a TypeScript implementation under [typescript/README.md](typescript/README.md)
+for teams that want a local file-backed Symphony runtime without depending on Linear.
+
 ### Option 2. Use our experimental reference implementation
 
 Check out [elixir/README.md](elixir/README.md) for instructions on how to set up your environment
